@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 
 
 <!--
 **ketdougi/ketdougi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 My name is Karen McDougall and I am a software engineer student at the University of Victoria!
+
+📫 To reach me, send me a message on my [linkedin](www.linkedin.com/in/k-mcdougall).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketdougi)](https://github.com/ketdougi/github-readme-stats)
